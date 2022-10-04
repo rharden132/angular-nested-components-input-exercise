@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-nested-components-input-exercise';
+  myPosts: String[] = ["post 1", "post 2", "post 3"];
 }
